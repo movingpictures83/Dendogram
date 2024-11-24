@@ -1,0 +1,2 @@
+Prefix plugins/Dendogram/example/
+Plugin Dendogram inputfile parameters.hierarchical.txt outputfile Dendogram
